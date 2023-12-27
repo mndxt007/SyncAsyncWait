@@ -4,4 +4,4 @@ This projects demostrates CPU impact of [DateTime.Now Property (System) | Micros
 
 Here is the CPU performance of each project using [microsoft/perfview: PerfView is a CPU and memory performance-analysis tool (github.com)](https://github.com/microsoft/perfview):
 
-![image](Assests/Perfview.png)
+![image](./Assests/Perfview.png)
