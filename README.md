@@ -4,19 +4,19 @@ This projects demostrates CPU impact of [DateTime.Now Property (System) | Micros
 
 Here is the CPU performance of each project using [microsoft/perfview: PerfView is a CPU and memory performance-analysis tool (github.com)](https://github.com/microsoft/perfview):
 
-Syncasyncwait
-![Syncasyncwait](Assets/Syncasyncwait.png)
+Syncasyncwait  
+![Syncasyncwait](Assests/Syncasyncwait.png)
 
-SyncDateTimeNow
-![SyncDateTimeNow](Assets/SyncDateTimeNow.png)
+SyncDateTimeNow  
+![SyncDateTimeNow](Assests/SyncDateTimeNow.png)
 
-SyncDateTimeNowwithDelay
-![SyncDateTimeNowwithDelay.png](Assets/SyncDateTimeNowwithDelay.png)
+SyncDateTimeNowwithDelay  
+![SyncDateTimeNowwithDelay.png](Assests/SyncDateTimeNowwithDelay.png)
 
-SyncDateTimeUTCNow
-![SyncDateTimeUTCNow](Assets/SyncDateTimeUTCNow.png)
+SyncDateTimeUTCNow  
+![SyncDateTimeUTCNow](Assests/SyncDateTimeUTCNow.png)
 
-SyncStopWatch
-![SyncStopWatch](Assets/SyncStopWatch.png)
+SyncStopWatch  
+![SyncStopWatch](Assests/SyncStopWatch.png)
 
 ![image](https://github.com/mndxt007/SyncAsyncWait/blob/master/Assests/Perfview.png)
